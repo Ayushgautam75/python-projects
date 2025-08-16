@@ -1,0 +1,26 @@
+[
+    {
+        "name": "apan",
+        "age": 21,
+        "email": "yogesh45@gmail.com",
+        "pin": 5050,
+        "accountNo.": "4uc91O!",
+        "balance": 500
+    },
+    {
+        "name": "ayush",
+        "age": 19,
+        "email": "akanshasagar532@gmail.com7",
+        "pin": 7505,
+        "accountNo.": "Z58%8LN",
+        "balance": 10500
+    },
+    {
+        "name": "ayush bro",
+        "age": 19,
+        "email": "Ayushbro779@gmail.com",
+        "pin": 7505,
+        "accountNo.": "76!9MOh",
+        "balance": 0
+    }
+]
